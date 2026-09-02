@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://wishlist-richmond-sailing-jpg.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://recordings-arbitrary-movie-please.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-01 22:34:10 UTC
+Created   : 2026-09-02 03:02:30 UTC
 =======================================================
