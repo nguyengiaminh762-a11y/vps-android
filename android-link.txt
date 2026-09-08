@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://fruits-economy-cheats-classified.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://brief-every-herald-midi.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-07 22:41:10 UTC
+Created   : 2026-09-08 03:12:50 UTC
 =======================================================
