@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://engineers-propecia-age-geographic.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://carriers-mill-owners-rent.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-21 20:03:05 UTC
+Created   : 2026-09-21 23:12:36 UTC
 =======================================================
