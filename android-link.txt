@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://parking-miscellaneous-packaging-locations.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://nissan-expressed-mouth-peninsula.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-03 10:23:22 UTC
+Created   : 2026-10-03 18:43:38 UTC
 =======================================================
