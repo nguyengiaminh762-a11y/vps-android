@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://adjustments-harder-railway-zoning.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://sample-philosophy-watts-despite.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-11 11:22:53 UTC
+Created   : 2026-10-11 19:30:57 UTC
 =======================================================
