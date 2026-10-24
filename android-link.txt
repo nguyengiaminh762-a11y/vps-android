@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://grand-national-registration-processors.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://rental-quebec-manager-pci.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-23 23:04:47 UTC
+Created   : 2026-10-24 03:27:53 UTC
 =======================================================
