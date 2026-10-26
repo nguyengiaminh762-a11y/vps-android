@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://applications-meets-ballot-pressing.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://preferred-belt-eur-betty.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-25 22:29:33 UTC
+Created   : 2026-10-26 03:23:09 UTC
 =======================================================
