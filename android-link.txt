@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://code-activity-mountain-basketball.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://launches-tampa-funny-taylor.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-26 10:57:03 UTC
+Created   : 2026-10-26 20:29:09 UTC
 =======================================================
