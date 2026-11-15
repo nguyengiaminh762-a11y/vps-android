@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://stores-weeks-witnesses-highways.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://artistic-violations-trusted-cute.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-11-14 23:48:35 UTC
+Created   : 2026-11-15 04:58:08 UTC
 =======================================================
