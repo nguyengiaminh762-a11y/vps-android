@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://instructor-adjustment-expressed-stereo.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://binary-morrison-easily-drew.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-11-26 23:39:36 UTC
+Created   : 2026-11-27 06:53:06 UTC
 =======================================================
